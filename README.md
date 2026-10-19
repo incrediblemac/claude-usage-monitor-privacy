@@ -77,6 +77,10 @@ If this policy changes, the updated version will be published at this same addre
 
 Questions or concerns: open an issue in this repository, or email **fullscreendev@gmail.com**.
 
+## About the developer
+
+Claude Usage Monitor is built by the team behind [TechStoriesIndia.com](https://techstoriesindia.com/), covering tech news, launches and how-tos, and [TechStoriesIndia.in](https://techstoriesindia.in/), covering gadget launches, specs and buying guides.
+
 ---
 
 *Claude Usage Monitor is an independent extension. It is not affiliated with, endorsed by, or sponsored by Anthropic. "Claude" and "Claude.ai" are trademarks of Anthropic, PBC, used here only to describe what the extension works with.*
